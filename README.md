@@ -1,6 +1,9 @@
+
 # User Dropdown
 
 An interactive HTML/CSS/JS mockup of a user profile dropdown, built from the Figma file *User Dropdown Function*.
+
+<img width="1196" height="897" alt="Screenshot 2026-10-20 162907" src="https://github.com/user-attachments/assets/de1c7f75-4a10-4478-8928-978c923cede2" />
 
 ## Features
 - Click the profile card to expand the menu (300 ms ease-in-out, matching the Figma prototype).
